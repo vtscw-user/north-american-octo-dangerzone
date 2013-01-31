@@ -3,3 +3,5 @@ Supplementary Figure 1: Awesomeness.
 Supplementary Figure 2: Close up of something awesome.
 
 Supplementary Figure 3: Awesome things happening.
+
+Supplementary Figure 4: Can things get any more awesome?
