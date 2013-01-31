@@ -3,3 +3,5 @@ This paper is going to be awesome!
 This is where the figures go.
 
 They go up there.
+
+Some discussion.
